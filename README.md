@@ -1,2 +1,2 @@
-# week-1
-this is for edunet internship program.
+# week 1 project for Garbage_classification
+Garbage classification project using AI and ML.
